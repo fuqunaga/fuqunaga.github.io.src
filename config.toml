@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "http://fuquna.ga"
+baseurl = "https://fuqunaga.github.io/"
 languageCode = "en-us"
 #title = "Hugrid - Grid Theme For Hugo"
 theme = "hugrid"
@@ -13,9 +13,9 @@ publishdir = "public"
 
 [params]
     # Meta
-    title = "[fuquna.ga](http://fuquna.ga)"
+    title = "fuquna.ga"
     #subtitle = "A kind of boilerplate to perform anyone or anything quickly. Portfolio, collection, bookmarks, contacts and so on."
-    #author = "fuqunaga"
+    author = "fuqunaga"
     #description = "Hugrid - grid theme for Hugo with an expanding image preview."
     keywords = "unity, unity3d, progiram, c#, shader, hlsl, fuqunaga"
 
@@ -26,7 +26,10 @@ publishdir = "public"
     buttontext = "Site"
 
     # Footer text
-    footertext = "[github](https://github.com/fuqunaga) [twitter](https://twitter.com/fuqunaga)"
+    # footertext = '[<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/fuqunaga) [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/fuqunaga)'
+
+    social = '[<i class="fa fa-github fa-2x" aria-hidden="true"></i>](https://github.com/fuqunaga) [<i class="fa fa-twitter fa-2x" aria-hidden="true"></i>](https://twitter.com/fuqunaga)'
+    socials = ['[<i class="fa fa-github fa-2x" aria-hidden="true"></i>](https://github.com/fuqunaga)', '[<i class="fa fa-twitter fa-2x" aria-hidden="true"></i>](https://twitter.com/fuqunaga)']
 
     # add extra-css
-    # custom_css = ['css/extra1.css', 'css/extra2.css']
+    custom_css = ['css/extra.css']

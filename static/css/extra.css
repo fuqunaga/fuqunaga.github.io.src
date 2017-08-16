@@ -1,0 +1,18 @@
+body{
+	background-color:#fbfbff;
+}
+.container > header {
+	padding: 20px 0px 0px;
+	text-align:left;
+}
+
+.container > header p{
+	padding: 10px 0px 0px;
+	float: right;
+}
+
+.og-grid li > a img {
+   width: 400px;
+   height: 250px;
+   object-fit: cover;
+}
