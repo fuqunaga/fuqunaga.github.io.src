@@ -80,3 +80,83 @@ thumb = "https://www.teamlab.art/images/pc-m/9140"
 alt = "A Table where Little People Live"
 description = "teamLab, 2013-, Interactive Digital Installation"
 url = "https://www.teamlab.art/w/kobitotable"
+
+[[items]]
+title = "THE iDOLM@STER MILLION LIVE!"
+image = "https://bandainamcoent.co.jp/cs/list/idolmaster/million_live/images/common/img_header.jpg"
+thumb = "https://bandainamcoent.co.jp/cs/list/idolmaster/million_live/images/common/img_header.jpg"
+alt = "THE iDOLM@STER MILLION LIVE!"
+description = "NBGI, 2013, Gree"
+url = "https://bandainamcoent.co.jp/cs/list/idolmaster/million_live/"
+
+[[items]]
+title = "Tales of Card Evolve"
+image = "/images/toce.jpg"
+thumb = "/images/toce.jpg"
+alt = "Tales of Card Evolve"
+description = "NBGI, 2012, Gree"
+url = "https://toce.tales-ch.jp/"
+
+[[items]]
+title = "鉄拳 TAG TOURNAMENT2 WiiU EDITION"
+image = "https://images-na.ssl-images-amazon.com/images/I/91F0AF4Vf2L._SL1500_.jpg"
+thumb = "https://images-na.ssl-images-amazon.com/images/I/91F0AF4Vf2L._SL1500_.jpg"
+alt = "鉄拳 TAG TOURNAMENT2 WiiU EDITION"
+description = "NBGI, 2012, WiiU"
+url = "https://www.tekken-official.jp/tag2wiiu/"
+
+[[items]]
+title = "SOUL CALIBUR V"
+image = "https://images-na.ssl-images-amazon.com/images/I/91A%2Be2fIFbL._SL1500_.jpg"
+thumb = "https://images-na.ssl-images-amazon.com/images/I/91A%2Be2fIFbL._SL1500_.jpg"
+alt = "SOUL CALIBUR V"
+description = "NBGI, 2012, PS3,Xbox360"
+url = "https://www.soularchive.jp/SC5/"
+
+[[items]]
+title = "GO VACATION"
+image = "https://images-na.ssl-images-amazon.com/images/I/91jt-JmZcJL._SL1500_.jpg"
+thumb = "https://images-na.ssl-images-amazon.com/images/I/91jt-JmZcJL._SL1500_.jpg"
+alt = "GO VACATION"
+description = "NBGI, 2011, Wii"
+url = "https://www.nintendo.co.jp/wii/software/sgvj/"
+
+[[items]]
+title = "Family Ski: World Ski & Snowboard"
+image = "https://images-na.ssl-images-amazon.com/images/I/515f44frWIL.jpg"
+thumb = "https://images-na.ssl-images-amazon.com/images/I/515f44frWIL.jpg"
+alt = "Family Ski: World Ski & Snowboard"
+description = "NBGI, 2008, Wii"
+url = "https://familyski.namco-ch.net/board/"
+
+[[items]]
+title = "Family Ski"
+image = "https://images-na.ssl-images-amazon.com/images/I/51zazHVuUvL.jpg"
+thumb = "https://images-na.ssl-images-amazon.com/images/I/51zazHVuUvL.jpg"
+alt = "Family Ski"
+description = "NBGI, 2008, Wii"
+url = "https://www.nintendo.co.jp/wii/software/rsqj/"
+
+[[items]]
+title = "RIDGE RACER 7"
+image = "https://bandainamcoent.co.jp/cs/list/ridgeracer7/_common/img/top/top.jpg"
+thumb = "https://bandainamcoent.co.jp/cs/list/ridgeracer7/_common/img/top/top.jpg"
+alt = "RIDGE RACER 7"
+description = "namco, 2006, PS3"
+url = "https://bandainamcoent.co.jp/cs/list/ridgeracer7/"
+
+[[items]]
+title = "RIDGE RACER 6"
+image = "https://bandainamcoent.co.jp/cs/list/ridgeracer6/common/img/top/topimg.jpg"
+thumb = "https://bandainamcoent.co.jp/cs/list/ridgeracer6/common/img/top/topimg.jpg"
+alt = "RIDGE RACER 6"
+description = "namco, 2005, Xbox360"
+url = "https://bandainamcoent.co.jp/cs/list/ridgeracer6/"
+
+[[items]]
+title = "機動戦士ガンダム 一年戦争"
+image = "https://images-na.ssl-images-amazon.com/images/I/51EJ43P6CVL.jpg"
+thumb = "https://images-na.ssl-images-amazon.com/images/I/51EJ43P6CVL.jpg"
+alt = "機動戦士ガンダム 一年戦争"
+description = "namco, 2005, PS2"
+url = "https://www.bandaigames.channel.or.jp/list/ps2_pegasus/"
