@@ -5,6 +5,7 @@ thumb = "https://www.teamlab.art/images/pc-m/11061"
 alt = "Crows are Chased and the Chasing Crows are Destined to be Chased as well"
 description = "teamLab, 2016-, Interactive Digital Installation, 4min 20sec"
 url = "https://www.teamlab.art/w/crows_transcending_space/"
+
 [[items]]
 title = "The Way of Birds"
 image = "https://www.teamlab.art/images/pc-m/11034"
@@ -12,6 +13,7 @@ thumb = "https://www.teamlab.art/images/pc-m/11034"
 alt = "The Way of Birds"
 description = "teamLab, 2017, Interactive Digital Installation, Endless"
 url = "https://www.teamlab.art/jp/w/way-of-birds/"
+
 [[items]]
 title = "teamLab Crystal Tree"
 image = "https://www.teamlab.art/images/pc-m/3938"
@@ -19,6 +21,15 @@ thumb = "https://www.teamlab.art/images/pc-m/3938"
 alt = "teamLab Crystal Tree"
 description = "teamLab, 2013-, Interactive Light Sculpture, LED, Endless"
 url = "https://www.teamlab.art/jp/w/crystaltree/"
+
+[[items]]
+title = "[Magazine]数学セミナー"
+image = "https://www.nippyo.co.jp/shop/img/magazine/temp/07292.jpg"
+thumb = "https://www.nippyo.co.jp/shop/img/magazine/temp/07292.jpg"
+alt = "[Magazine]数学セミナー"
+description = "teamLab, 2016, article"
+url = "https://www.nippyo.co.jp/shop/magazine/7292.html"
+
 [[items]]
 title = "Wander through the Crystal Universe For Aria MV"
 image = "https://img.youtube.com/vi/vNzTsCsPrwI/0.jpg"
@@ -26,6 +37,7 @@ thumb = "https://img.youtube.com/vi/vNzTsCsPrwI/0.jpg"
 alt = "Wander through the Crystal Universe For Aria MV"
 description = "teamLab, 2016"
 url = "https://youtu.be/vNzTsCsPrwI"
+
 [[items]]
 title = "Create! Hopscotch for Geniuses"
 image = "https://www.teamlab.art/images/pc-m/8886"
@@ -33,6 +45,31 @@ thumb = "https://www.teamlab.art/images/pc-m/8886"
 alt = "Create! Hopscotch for Geniuses"
 description = "teamLab, 2015–, Interactive Digital Installation"
 url = "https://www.teamlab.art/w/create-hopscotch"
+
+[[items]]
+title = "[Event]「テクノロジー×アート」チャレンジ講座"
+image = "/images/challenge01.png"
+thumb = "/images/challenge01.png"
+alt = "[Event]「テクノロジー×アート」チャレンジ講座"
+description = "teamLab, 2015, lecture at Yamaguchi University"
+url = "http://www.yamaguchi-u.ac.jp/topics/2016/_5421.html"
+
+[[items]]
+title = "[Event]teamLab Meet-up #2"
+image = "https://image.slidesharecdn.com/random-160408165307/95/-1-638.jpg?cb=1460134978"
+thumb = "https://image.slidesharecdn.com/random-160408165307/95/-1-638.jpg?cb=1460134978"
+alt = "[Event]teamLab Meet-up #2"
+description = "teamLab, 2015, lecture"
+url = "https://www.slideshare.net/fuqunaga/ss-60667664"
+
+[[items]]
+title = "[Event]Unity Solution Conference 2015"
+image = "/images/usc2015.png"
+thumb = "/images/usc2015.png"
+alt = "[Event]Unity Solution Conference 2015"
+description = "teamLab, 2015, lecture"
+url = "http://japan.unity3d.com/events/usc2015/schedule.html"
+
 [[items]]
 title = "Crystal Universe"
 image = "https://www.teamlab.art/images/pc-m/5648"
@@ -120,6 +157,14 @@ thumb = "https://images-na.ssl-images-amazon.com/images/I/91jt-JmZcJL._SL1500_.j
 alt = "GO VACATION"
 description = "NBGI, 2011, Wii"
 url = "https://www.nintendo.co.jp/wii/software/sgvj/"
+
+[[items]]
+title = "[Patent]the trail of the moving object"
+image = "https://astamuse.com/ja/drawing/JP/2010/079/564/A/000002.png"
+thumb = "https://astamuse.com/ja/drawing/JP/2010/079/564/A/000002.png"
+alt = "[Patent]the trail of the moving object"
+description = "NBGI, 2008, Patent"
+url = "https://astamuse.com/ja/published/JP/No/2010079564"
 
 [[items]]
 title = "Family Ski: World Ski & Snowboard"
