@@ -1,4 +1,12 @@
 [[items]]
+title = "[Indies Book]Unity Graphics Programming"
+image = "/images/unity_graphics_programming.png"
+thumb = "/images/unity_graphics_programming.png"
+alt = "Unity Graphics Programming"
+description = "indievisuallab, 2017, paper/digital book"
+url = "https://indievisuallab.stores.jp/"
+
+[[items]]
 title = "Crows are Chased and the Chasing Crows are Destined to be Chased as well"
 image = "https://www.teamlab.art/images/pc-m/11061"
 thumb = "https://www.teamlab.art/images/pc-m/11061"
