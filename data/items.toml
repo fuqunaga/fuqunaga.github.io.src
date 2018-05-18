@@ -1,6 +1,30 @@
 [[items]]
+title = "Crows are Chased and the Chasing Crows are Destined to be Chased as well, Flying Beyond Borders"
+image = "https://www.teamlab.art/images/pc-m/14342"
+thumb = "https://www.teamlab.art/images/pc-m/14388"
+alt = "Crows are Chased and the Chasing Crows are Destined to be Chased as well, Flying Beyond Borders"
+description = "teamLab, 2018, Interactive Digital Installation"
+url = "https://www.teamlab.art/jp/w/crows_flying/"
+
+[[items]]
+title = "The Way of the Sea"
+image = "https://www.teamlab.art/images/pc-m/14651"
+thumb = "https://www.teamlab.art/images/pc-m/14648"
+alt = "The Way of the Sea"
+description = "teamLab, 2016-, Interactive Digital Installation"
+url = "https://www.teamlab.art/jp/w/way-of-the-sea/"
+
+[[items]]
+title = "[Indies Book]Unity Graphics Programming vol.2"
+image = "https://p1-e6eeae93.imageflux.jp/indievisuallab/e64231164cfac0043e86.png"
+thumb = "/images/unity_graphics_programming_vol2.png"
+alt = "Unity Graphics Programming vol.2"
+description = "indievisuallab, 2018, paper/digital book"
+url = "https://indievisuallab.stores.jp/"
+
+[[items]]
 title = "[Indies Book]Unity Graphics Programming"
-image = "/images/unity_graphics_programming.png"
+image = "https://p1-e6eeae93.imageflux.jp/indievisuallab/e6750226b6a81dd061c4.png"
 thumb = "/images/unity_graphics_programming.png"
 alt = "Unity Graphics Programming"
 description = "indievisuallab, 2017, paper/digital book"
