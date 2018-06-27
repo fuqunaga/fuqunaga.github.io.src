@@ -1,26 +1,34 @@
 [[items]]
+title = "Walk, Walk, Walk: 自由無碍"
+image = "https://www.teamlab.art/images/pc-m/14910"
+thumb = "https://www.teamlab.art/images/pc-m/14910"
+alt = "Walk, Walk, Walk: 自由無碍"
+description = "teamLab, 2018, Interactive Digital Installation"
+url = "https://www.teamlab.art/jp/ew/walk_free_insulation/"
+
+[[items]]
 title = "Crows, Flying Beyond Borders"
 image = "https://www.teamlab.art/images/pc-l/14743"
 thumb = "https://www.teamlab.art/images/pc-m/14746"
 alt = "Crows, Flying Beyond Borders"
 description = "teamLab, 2018, Interactive Digital Installation"
-url = "https://www.teamlab.art/jp/ew/crows_flying2/"
+url = "https://www.teamlab.art/jp/ew/crows_flying/"
 
 [[items]]
 title = "The Way of the Sea - Colors of Life"
-image = "https://www.teamlab.art/images/pc-m/14656"
+image = "https://www.teamlab.art/images/pc-m/15044"
 thumb = "https://www.teamlab.art/images/pc-m/14657"
 alt = "The Way of the Sea - Colors of Life"
 description = "teamLab, 2018, Interactive Digital Installation"
-url = "https://www.teamlab.art/jp/ew/way-of-the-sea-colors/"
+url = "https://www.teamlab.art/jp/ew/way-of-the-sea-colors_flying_lavillette/"
 
 [[items]]
 title = "The Way of the Sea"
-image = "https://www.teamlab.art/images/pc-m/14651"
-thumb = "https://www.teamlab.art/images/pc-m/14648"
+image = "https://www.teamlab.art/images/pc-m/14878"
+thumb = "https://www.teamlab.art/images/pc-m/14882"
 alt = "The Way of the Sea"
 description = "teamLab, 2018, Interactive Digital Installation"
-url = "https://www.teamlab.art/jp/w/way-of-the-sea/"
+url = "https://www.teamlab.art/jp/ew/way-of-the-sea-nest/"
 
 [[items]]
 title = "[Indies Book]Unity Graphics Programming vol.2"
@@ -40,7 +48,7 @@ url = "https://indievisuallab.stores.jp/"
 
 [[items]]
 title = "Crows are Chased and the Chasing Crows are Destined to be Chased as well"
-image = "https://www.teamlab.art/images/pc-m/11061"
+image = "https://www.teamlab.art/images/pc-m/14915"
 thumb = "https://www.teamlab.art/images/pc-m/11061"
 alt = "Crows are Chased and the Chasing Crows are Destined to be Chased as well"
 description = "teamLab, 2016-, Interactive Digital Installation, 4min 20sec"
