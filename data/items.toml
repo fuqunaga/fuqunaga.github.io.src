@@ -1,4 +1,12 @@
 [[items]]
+title = "Amazon Wishlist Point"
+image = "/images/amazon_wishlist_point.png"
+thumb = "/images/amazon_wishlist_point.png"
+alt = "Amazon Wishlist Point"
+description = "indivisual, 2018, chrome extension"
+url = "https://chrome.google.com/webstore/detail/amazon-wishlist-point/mffnibnldlmhmagdjiihbmjffpdmjlmn"
+
+[[items]]
 title = "Walk, Walk, Walk: 自由無碍"
 image = "https://www.teamlab.art/images/pc-m/14910"
 thumb = "https://www.teamlab.art/images/pc-m/14910"
