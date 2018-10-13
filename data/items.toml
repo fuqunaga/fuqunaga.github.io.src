@@ -1,4 +1,12 @@
 [[items]]
+title = "[Indies Book]Unity Graphics Programming vol.3"
+image = "https://p1-e6eeae93.imageflux.jp/indievisuallab/1374af7c03dcca175dc1.png"
+thumb = "/images/unity_graphics_programming_vol3.png"
+alt = "Unity Graphics Programming vol.3"
+description = "indievisuallab, 2018, paper/digital book"
+url = "https://indievisuallab.stores.jp/"
+
+[[items]]
 title = "Amazon Wishlist Point"
 image = "/images/amazon_wishlist_point.png"
 thumb = "/images/amazon_wishlist_point.png"
