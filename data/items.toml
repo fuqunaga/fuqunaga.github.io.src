@@ -1,4 +1,12 @@
 [[items]]
+title = "GUIRemote"
+image = "/images/guiremote.png"
+thumb = "/images/guiremote.png"
+alt = "GUIRemote"
+description = "GUIRemote, 2018, unity asset"
+url = "http://u3d.as/1hJk"
+
+[[items]]
 title = "[Indies Book]Unity Graphics Programming vol.3"
 image = "https://p1-e6eeae93.imageflux.jp/indievisuallab/1374af7c03dcca175dc1.png"
 thumb = "/images/unity_graphics_programming_vol3.png"
