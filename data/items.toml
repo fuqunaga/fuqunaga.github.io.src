@@ -1,4 +1,20 @@
 [[items]]
+title = "[Indies Book]Unity Graphics Programming vol.4"
+image = "https://p1-e6eeae93.imageflux.jp/c!/a=2,w=460,h=460/indievisuallab/cfe9453af3be2019d6c9.png"
+thumb = "/images/unity_graphics_programming_vol4.png"
+alt = "Unity Graphics Programming vol.4"
+description = "indievisuallab, 2019, paper/digital book"
+url = "https://indievisuallab.stores.jp/"
+
+[[items]]
+title = "境界のない群蝶、そして浮遊する巣"
+image = "https://www.teamlab.art/images/pc-l/19390"
+thumb = "https://www.teamlab.art/images/pc-m/19393"
+alt = "境界のない群蝶、そして浮遊する巣"
+description = "teamLab, 2019, Interactive Digital Installation"
+url = "https://www.teamlab.art/jp/w/butterflies_nest"
+
+[[items]]
 title = "GUIRemote"
 image = "/images/guiremote.png"
 thumb = "/images/guiremote.png"
