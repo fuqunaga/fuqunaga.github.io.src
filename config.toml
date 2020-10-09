@@ -28,7 +28,7 @@ publishdir = "public"
     # Footer text
     # footertext = '[<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/fuqunaga) [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/fuqunaga)'
 
-    social = '[<i class="fa fa-book fa-2x" aria-hidden="true"></i>](https://note.com/fuqunaga) [<i class="fa fa-github fa-2x" aria-hidden="true"></i>](https://github.com/fuqunaga) [<i class="fa fa-twitter fa-2x" aria-hidden="true"></i>](https://twitter.com/fuqunaga) [<i class="fa fa-envelope fa-2x" aria-hidden="true"></i>](mailto:fukhid+contact@gmail.com)'
+    social = '[<i class="fa fa-book fa-2x" aria-hidden="true"></i>](https://zenn.dev/fuqunaga) [<i class="fa fa-github fa-2x" aria-hidden="true"></i>](https://github.com/fuqunaga) [<i class="fa fa-twitter fa-2x" aria-hidden="true"></i>](https://twitter.com/fuqunaga) [<i class="fa fa-envelope fa-2x" aria-hidden="true"></i>](mailto:fukhid+contact@gmail.com)'
     # socials = ['[<i class="fa fa-github fa-2x" aria-hidden="true"></i>](https://github.com/fuqunaga)', '[<i class="fa fa-twitter fa-2x" aria-hidden="true"></i>](https://twitter.com/fuqunaga)']
 
     # add extra-css
