@@ -1,4 +1,12 @@
 [[items]]
+title = "The Way of Birds"
+image = "https://www.teamlab.art/images/pc-m/22915"
+thumb = "https://www.teamlab.art/images/pc-m/23057"
+alt = "The Way of Birds"
+description = "teamLab, 2020, Interactive Digital Installation, Endless"
+url = "https://www.teamlab.art/jp/ew/asm-way-of-birds/"
+
+[[items]]
 title = "The Way of the Sea, Lost, Immersed and Reborn - Colors of Life"
 image = "https://borderless.teamlab.art/images/pc-m/21628"
 thumb = "https://borderless.teamlab.art/images/pc-m/21631"
@@ -127,12 +135,12 @@ description = "teamLab, 2016-, Interactive Digital Installation, 4min 20sec"
 url = "https://www.teamlab.art/w/crows_transcending_space/"
 
 [[items]]
-title = "The Way of Birds"
+title = "The Way of Birds - Seated Contemplation"
 image = "https://www.teamlab.art/images/pc-m/11034"
 thumb = "https://www.teamlab.art/images/pc-m/11034"
-alt = "The Way of Birds"
+alt = "The Way of Birds - Seated Contemplation"
 description = "teamLab, 2017, Interactive Digital Installation, Endless"
-url = "https://www.teamlab.art/jp/w/way-of-birds/"
+url = "https://www.teamlab.art/jp/w/way-of-birds-seated/"
 
 [[items]]
 title = "teamLab Crystal Tree"
