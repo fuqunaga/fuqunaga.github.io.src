@@ -28,8 +28,19 @@ publishdir = "public"
     # Footer text
     # footertext = '[<i class="fa fa-github" aria-hidden="true"></i>](https://github.com/fuqunaga) [<i class="fa fa-twitter" aria-hidden="true"></i>](https://twitter.com/fuqunaga)'
 
-    social = '[<i class="fa fa-book fa-2x" aria-hidden="true"></i>](https://zenn.dev/fuqunaga) [<i class="fa fa-github fa-2x" aria-hidden="true"></i>](https://github.com/fuqunaga) [<i class="fa fa-twitter fa-2x" aria-hidden="true"></i>](https://twitter.com/fuqunaga) [<i class="fa fa-envelope fa-2x" aria-hidden="true"></i>](mailto:fukhid+contact@gmail.com)'
+    # social = '[<i class="fa fa-book fa-2x" aria-hidden="true"></i>](https://zenn.dev/fuqunaga) [<i class="fa fa-github fa-2x" aria-hidden="true"></i>](https://github.com/fuqunaga) [<i class="fa fa-twitter fa-2x" aria-hidden="true"></i>](https://twitter.com/fuqunaga) [<i class="fa fa-envelope fa-2x" aria-hidden="true"></i>](mailto:fukhid+contact@gmail.com)'
     # socials = ['[<i class="fa fa-github fa-2x" aria-hidden="true"></i>](https://github.com/fuqunaga)', '[<i class="fa fa-twitter fa-2x" aria-hidden="true"></i>](https://twitter.com/fuqunaga)']
+    # social = "hoge"
 
+    socials = [
+        {url = "https://zenn.dev/fuqunaga", icon = "fa-book"},
+        {url = "https://github.com/fuqunaga", icon = "fa-github"},
+        {url = "https://twitter.com/fuqunaga", icon = "fa-twitter"},
+        {url = "mailto:fukhid+contact@gmail.com", icon = "fa-envelope"},
+    ]
+
+    #[[params.socials]]
+    #    url = "https://twitter.com/fuqunaga"
+    
     # add extra-css
     custom_css = ['css/extra.css']
